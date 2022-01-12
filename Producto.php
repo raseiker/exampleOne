@@ -19,8 +19,6 @@ class Producto{
   }
 
 }
-
-//creating an update for twice
-
-
-//comment after switch to 365c554 commit
+//otro comentario para generar conflicto
+//comentando desde un nuevo commit que es parte de la rama 457f41c
+//igual que la fila twenty two
